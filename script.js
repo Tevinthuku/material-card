@@ -1,0 +1,1 @@
+Waves.attach('.waves-image');

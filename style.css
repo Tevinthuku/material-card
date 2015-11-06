@@ -1,0 +1,27 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+.card{
+	width:350px;
+	height:300px;
+	box-shadow:2px 3px 4px grey;
+	margin: auto;
+	position: absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	
+}
+.textheader{
+	position:absolute;
+	margin: auto;
+	bottom: 250px;
+	right:60px;
+}
+.text{
+	position:absolute;
+	margin: auto;
+	bottom:150px;
+	right:50px;
+}
